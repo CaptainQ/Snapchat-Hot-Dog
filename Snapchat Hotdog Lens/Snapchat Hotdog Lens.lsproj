@@ -1,0 +1,3137 @@
+{
+    "lens_id": "91a29d70-ce00-418a-b238-3584e383b771",
+    "version": "0",
+    "lastChanged": "1519963644799",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "HotDog v05"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "PBR Textures"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Textures"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1508869195559043:43763",
+                    "1519943327026496:16356",
+                    "1519943327226197:16487",
+                    "1519951341639948:46779"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "3830a3afdf16a0e9fe45aff369d4016b",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Hotdog Dance"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Downloads\/ground_grid_mesh.fbx",
+                    "additionalProperties": {
+                        "name": "ground_grid_mesh"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1498868158392542:504",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/GroundGrid.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1498868172316494:515",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Studio3D-BDSKDr\/Asset0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1498868172318940:524",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Studio3D-BDSKDr\/Asset1.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1498868172319414:533",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Downloads\/ground_grid_mat.mat",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1499276508720146:1345",
+                    "name": "\/Resources\/Resource14.js",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Snapchat\/studio3d-support\/helper_scripts\/PlayAnimation.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1502830760689594:60799",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "\/var\/folders\/nd\/9vg2b63x7sz3ny4j8bcrnpvr0000gn\/T\/Studio3D-1JFZ7i\/Asset0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "156",
+                    "uid": "1508880320211090:76268",
+                    "name": "\/Resources\/Resource156.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Library\/Caches\/Snap\/Studio3D\/envmaps\/marvista_1209448440_diff.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "157",
+                    "uid": "1508880320229720:76277",
+                    "name": "\/Resources\/Resource157.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Library\/Caches\/Snap\/Studio3D\/envmaps\/marvista_1209448440_spec.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1508880728097855:76417",
+                    "name": "\/Resources\/Resource160.mesh",
+                    "sourceFilePath": "\/Users\/doug.holder\/Documents\/TouchCollisionCube.fbx",
+                    "additionalProperties": {
+                        "name": "TouchCollisionCube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "167",
+                    "uid": "1511398066502947:21445",
+                    "name": "\/Resources\/Resource167",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "168",
+                    "uid": "1511398066504473:21457",
+                    "name": "\/Resources\/Resource168.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "169",
+                    "uid": "1511399587522424:24419",
+                    "name": "\/Resources\/Resource169",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "170",
+                    "uid": "1519943327044871:16436",
+                    "name": "\/Resources\/Resource170",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Fone"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "171",
+                    "uid": "1519943327163249:16463",
+                    "name": "\/Resources\/Resource171",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Light Top"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "172",
+                    "uid": "1519943327194675:16478",
+                    "name": "\/Resources\/Resource172",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Light Side"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "173",
+                    "uid": "1519943327576203:16716",
+                    "name": "\/Resources\/Resource173",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Main"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "178",
+                    "uid": "1519943328397784:16765",
+                    "name": "\/Resources\/Resource178.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Rellish"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "179",
+                    "uid": "1519943328607328:16776",
+                    "name": "\/Resources\/Resource179.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Mustard"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "180",
+                    "uid": "1519943328669511:16787",
+                    "name": "\/Resources\/Resource180.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Mouth"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "181",
+                    "uid": "1519943328880580:16798",
+                    "name": "\/Resources\/Resource181.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Ketchup"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "182",
+                    "uid": "1519943327163180:16461",
+                    "name": "\/Resources\/Resource182.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Light Top"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "183",
+                    "uid": "1519943327194398:16476",
+                    "name": "\/Resources\/Resource183.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Light Side"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "184",
+                    "uid": "1519943329615191:16831",
+                    "name": "\/Resources\/Resource184.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Eyebrow Left"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "185",
+                    "uid": "1519943329690304:16853",
+                    "name": "\/Resources\/Resource185.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Eye Left"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "186",
+                    "uid": "1519943327576034:16714",
+                    "name": "\/Resources\/Resource186.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Arm Left"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1519943328003210:16732",
+                    "name": "\/Resources\/Resource187.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Arm Right"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "188",
+                    "uid": "1519943328058028:16743",
+                    "name": "\/Resources\/Resource188.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Leg Right"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "189",
+                    "uid": "1519943328110109:16754",
+                    "name": "\/Resources\/Resource189.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Leg Left"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "190",
+                    "uid": "1519943329373666:16809",
+                    "name": "\/Resources\/Resource190.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Headphones"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "191",
+                    "uid": "1519943329718951:16864",
+                    "name": "\/Resources\/Resource191.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Ear Right"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "192",
+                    "uid": "1519943329748095:16875",
+                    "name": "\/Resources\/Resource192.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Ear Left"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "193",
+                    "uid": "1519943329954211:16886",
+                    "name": "\/Resources\/Resource193.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Bun"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "194",
+                    "uid": "1519943330330573:16897",
+                    "name": "\/Resources\/Resource194.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Body"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "195",
+                    "uid": "1519943327044623:16434",
+                    "name": "\/Resources\/Resource195.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Cube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1519943327162853:16449",
+                    "name": "\/Resources\/Resource196.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Plane"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "197",
+                    "uid": "1519943329651201:16842",
+                    "name": "\/Resources\/Resource197.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Eye Right"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "198",
+                    "uid": "1519943329492551:16820",
+                    "name": "\/Resources\/Resource198.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Eyebrow Right"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "199",
+                    "uid": "1519943327040664:16406",
+                    "name": "\/Resources\/Resource199",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Neck Controller",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "200",
+                    "uid": "1519943327260417:16541",
+                    "name": "\/Resources\/Resource200",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Arm 02 L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "201",
+                    "uid": "1519943327337629:16649",
+                    "name": "\/Resources\/Resource201",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Hand R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1519943327347033:16661",
+                    "name": "\/Resources\/Resource202",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Thumb R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "203",
+                    "uid": "1519943327027626:16368",
+                    "name": "\/Resources\/Resource203",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Hand Controller Right",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "204",
+                    "uid": "1519943327031696:16382",
+                    "name": "\/Resources\/Resource204",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Hand Controller Left",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "205",
+                    "uid": "1519943327296389:16589",
+                    "name": "\/Resources\/Resource205",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Leg 02 L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "206",
+                    "uid": "1519943327306403:16601",
+                    "name": "\/Resources\/Resource206",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Leg 01 R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "207",
+                    "uid": "1519943327322952:16625",
+                    "name": "\/Resources\/Resource207",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Hand L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "208",
+                    "uid": "1519943327333162:16637",
+                    "name": "\/Resources\/Resource208",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Thumb L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "209",
+                    "uid": "1519943327360433:16685",
+                    "name": "\/Resources\/Resource209",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Foot L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "210",
+                    "uid": "1519943327364892:16697",
+                    "name": "\/Resources\/Resource210",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Foot R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "211",
+                    "uid": "1519943327269560:16553",
+                    "name": "\/Resources\/Resource211",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Arm 01 R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "212",
+                    "uid": "1519943327226351:16493",
+                    "name": "\/Resources\/Resource212",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Spine 01",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "213",
+                    "uid": "1519943327235510:16505",
+                    "name": "\/Resources\/Resource213",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Spine 02",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "214",
+                    "uid": "1519943327244414:16517",
+                    "name": "\/Resources\/Resource214",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Spine 03",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "215",
+                    "uid": "1519943327351984:16673",
+                    "name": "\/Resources\/Resource215",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Head",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "216",
+                    "uid": "1519943327278556:16565",
+                    "name": "\/Resources\/Resource216",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Arm 02 R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "217",
+                    "uid": "1519943327287691:16577",
+                    "name": "\/Resources\/Resource217",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Leg 01 L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "218",
+                    "uid": "1519943327252679:16529",
+                    "name": "\/Resources\/Resource218",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Arm 01 L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "219",
+                    "uid": "1519943327315040:16613",
+                    "name": "\/Resources\/Resource219",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Leg 02 R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "220",
+                    "uid": "1519943327036837:16396",
+                    "name": "\/Resources\/Resource220",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.02.fbx",
+                    "additionalProperties": {
+                        "name": "Hip Controller",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "228",
+                    "uid": "1519944479833936:32083",
+                    "name": "\/Resources\/Resource228",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "229",
+                    "uid": "1519944479835098:32095",
+                    "name": "\/Resources\/Resource229.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "230",
+                    "uid": "1519944479846127:32107",
+                    "name": "\/Resources\/Resource230.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "231",
+                    "uid": "1519944479847560:32119",
+                    "name": "\/Resources\/Resource231.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1519944479849229:32131",
+                    "name": "\/Resources\/Resource232.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1519944479850896:32143",
+                    "name": "\/Resources\/Resource233.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1519944753243657:32823",
+                    "name": "\/Resources\/Resource234",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "235",
+                    "uid": "1519944753245258:32835",
+                    "name": "\/Resources\/Resource235.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "236",
+                    "uid": "1519944753246636:32847",
+                    "name": "\/Resources\/Resource236.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "237",
+                    "uid": "1519944753247699:32859",
+                    "name": "\/Resources\/Resource237.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "238",
+                    "uid": "1519944753249404:32871",
+                    "name": "\/Resources\/Resource238.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "239",
+                    "uid": "1519944753251101:32883",
+                    "name": "\/Resources\/Resource239.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "244",
+                    "uid": "1519944893468732:33302",
+                    "name": "\/Resources\/Resource244",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "245",
+                    "uid": "1519944893470181:33314",
+                    "name": "\/Resources\/Resource245.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "246",
+                    "uid": "1519944893471549:33326",
+                    "name": "\/Resources\/Resource246.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "247",
+                    "uid": "1519944893473651:33338",
+                    "name": "\/Resources\/Resource247.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "248",
+                    "uid": "1519944893475103:33350",
+                    "name": "\/Resources\/Resource248.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "249",
+                    "uid": "1519944893476850:33362",
+                    "name": "\/Resources\/Resource249.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "250",
+                    "uid": "1519945146886722:33772",
+                    "name": "\/Resources\/Resource250",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "251",
+                    "uid": "1519945146896421:33784",
+                    "name": "\/Resources\/Resource251.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "252",
+                    "uid": "1519945146897617:33796",
+                    "name": "\/Resources\/Resource252.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "253",
+                    "uid": "1519945146906771:33808",
+                    "name": "\/Resources\/Resource253.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "254",
+                    "uid": "1519945146907920:33820",
+                    "name": "\/Resources\/Resource254.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "255",
+                    "uid": "1519945146909563:33832",
+                    "name": "\/Resources\/Resource255.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "256",
+                    "uid": "1519945219431026:34132",
+                    "name": "\/Resources\/Resource256",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "257",
+                    "uid": "1519945219432529:34144",
+                    "name": "\/Resources\/Resource257.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "258",
+                    "uid": "1519945219448027:34156",
+                    "name": "\/Resources\/Resource258.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "259",
+                    "uid": "1519945219449729:34168",
+                    "name": "\/Resources\/Resource259.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "260",
+                    "uid": "1519945219450609:34180",
+                    "name": "\/Resources\/Resource260.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "261",
+                    "uid": "1519945219453232:34192",
+                    "name": "\/Resources\/Resource261.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "262",
+                    "uid": "1519945343226201:34540",
+                    "name": "\/Resources\/Resource262",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "263",
+                    "uid": "1519945343227154:34552",
+                    "name": "\/Resources\/Resource263.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "264",
+                    "uid": "1519945343228553:34564",
+                    "name": "\/Resources\/Resource264.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "265",
+                    "uid": "1519945343229648:34576",
+                    "name": "\/Resources\/Resource265.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "266",
+                    "uid": "1519945343230825:34588",
+                    "name": "\/Resources\/Resource266.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "267",
+                    "uid": "1519945343232003:34600",
+                    "name": "\/Resources\/Resource267.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "268",
+                    "uid": "1519945432204932:34889",
+                    "name": "\/Resources\/Resource268",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "269",
+                    "uid": "1519945432206764:34901",
+                    "name": "\/Resources\/Resource269.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "270",
+                    "uid": "1519945432209075:34913",
+                    "name": "\/Resources\/Resource270.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "271",
+                    "uid": "1519945432210785:34925",
+                    "name": "\/Resources\/Resource271.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "272",
+                    "uid": "1519945432214276:34937",
+                    "name": "\/Resources\/Resource272.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "273",
+                    "uid": "1519945432216553:34949",
+                    "name": "\/Resources\/Resource273.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "274",
+                    "uid": "1519947043545509:35614",
+                    "name": "\/Resources\/Resource274.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/Snapchat Hotdog Lens\/Public\/PBR Textures\/MaterialParams_Main2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "275",
+                    "uid": "1519947215924953:35664",
+                    "name": "\/Resources\/Resource275.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/Snapchat Hotdog Lens\/Public\/PBR Textures\/MaterialParams_Heaphones2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "276",
+                    "uid": "1519947314466099:35712",
+                    "name": "\/Resources\/Resource276.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/Snapchat Hotdog Lens\/Public\/PBR Textures\/MaterialParams_Ketchup2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "277",
+                    "uid": "1519947416472410:35793",
+                    "name": "\/Resources\/Resource277.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/Snapchat Hotdog Lens\/Public\/PBR Textures\/MaterialParams_Bun2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "278",
+                    "uid": "1519947507183823:35836",
+                    "name": "\/Resources\/Resource278.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/Snapchat Hotdog Lens\/Public\/PBR Textures\/MaterialParams_Face2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "279",
+                    "uid": "1519951341353381:46728",
+                    "name": "\/Resources\/Resource279",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Fone"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "280",
+                    "uid": "1519951341553175:46755",
+                    "name": "\/Resources\/Resource280",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Light Top"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "281",
+                    "uid": "1519951341620033:46770",
+                    "name": "\/Resources\/Resource281",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Light Side"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "282",
+                    "uid": "1519951341723358:46927",
+                    "name": "\/Resources\/Resource282",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Main"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "287",
+                    "uid": "1519951341333276:46726",
+                    "name": "\/Resources\/Resource287.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Cube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "288",
+                    "uid": "1519951341915200:47062",
+                    "name": "\/Resources\/Resource288.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Ear Right"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "289",
+                    "uid": "1519951341892220:47052",
+                    "name": "\/Resources\/Resource289.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Eye Left"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "290",
+                    "uid": "1519951341827144:46992",
+                    "name": "\/Resources\/Resource290.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Mouth"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "291",
+                    "uid": "1519951341811151:46972",
+                    "name": "\/Resources\/Resource291.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Rellish"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "292",
+                    "uid": "1519951341553064:46753",
+                    "name": "\/Resources\/Resource292.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Light Top"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "293",
+                    "uid": "1519951341756685:46942",
+                    "name": "\/Resources\/Resource293.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Arm Right"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "294",
+                    "uid": "1519951341941398:47092",
+                    "name": "\/Resources\/Resource294.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Body"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "295",
+                    "uid": "1519951341877446:47022",
+                    "name": "\/Resources\/Resource295.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Eyebrow Right"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "296",
+                    "uid": "1519951341929720:47082",
+                    "name": "\/Resources\/Resource296.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Bun"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "297",
+                    "uid": "1519951341840440:47002",
+                    "name": "\/Resources\/Resource297.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Ketchup"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "298",
+                    "uid": "1519951341886035:47032",
+                    "name": "\/Resources\/Resource298.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Eyebrow Left"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "299",
+                    "uid": "1519951341723246:46925",
+                    "name": "\/Resources\/Resource299.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Arm Left"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "300",
+                    "uid": "1519951341552773:46741",
+                    "name": "\/Resources\/Resource300.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Plane"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "301",
+                    "uid": "1519951341786560:46962",
+                    "name": "\/Resources\/Resource301.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Leg Left"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "302",
+                    "uid": "1519951341823285:46982",
+                    "name": "\/Resources\/Resource302.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Mustard"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "303",
+                    "uid": "1519951341918749:47072",
+                    "name": "\/Resources\/Resource303.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Ear Left"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "304",
+                    "uid": "1519951341619860:46768",
+                    "name": "\/Resources\/Resource304.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Light Side"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "305",
+                    "uid": "1519951341869854:47012",
+                    "name": "\/Resources\/Resource305.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Headphones"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "306",
+                    "uid": "1519951341761160:46952",
+                    "name": "\/Resources\/Resource306.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Leg Right"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "307",
+                    "uid": "1519951341889373:47042",
+                    "name": "\/Resources\/Resource307.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Eye Right"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "308",
+                    "uid": "1519951341682007:46889",
+                    "name": "\/Resources\/Resource308",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Hand R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "309",
+                    "uid": "1519951341326478:46698",
+                    "name": "\/Resources\/Resource309",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Neck Controller",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "310",
+                    "uid": "1519951341322027:46688",
+                    "name": "\/Resources\/Resource310",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Hip Controller",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "311",
+                    "uid": "1519951341671030:46859",
+                    "name": "\/Resources\/Resource311",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Leg 01 R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "312",
+                    "uid": "1519951341661331:46827",
+                    "name": "\/Resources\/Resource312",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Arm 01 R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "313",
+                    "uid": "1519951341669156:46851",
+                    "name": "\/Resources\/Resource313",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Leg 02 L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "314",
+                    "uid": "1519951341318069:46674",
+                    "name": "\/Resources\/Resource314",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Hand Controller Left",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "315",
+                    "uid": "1519951341676267:46875",
+                    "name": "\/Resources\/Resource315",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Hand L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "316",
+                    "uid": "1519951341665386:46843",
+                    "name": "\/Resources\/Resource316",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Leg 01 L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "317",
+                    "uid": "1519951341663717:46835",
+                    "name": "\/Resources\/Resource317",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Arm 02 R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "318",
+                    "uid": "1519951341673545:46867",
+                    "name": "\/Resources\/Resource318",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Leg 02 R",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1519951341690560:46903",
+                    "name": "\/Resources\/Resource319",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Head",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "320",
+                    "uid": "1519951341640420:46785",
+                    "name": "\/Resources\/Resource320",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Spine 01",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "321",
+                    "uid": "1519951341314078:46660",
+                    "name": "\/Resources\/Resource321",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Hand Controller Right",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "322",
+                    "uid": "1519951341659138:46819",
+                    "name": "\/Resources\/Resource322",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Arm 02 L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "323",
+                    "uid": "1519951341656969:46811",
+                    "name": "\/Resources\/Resource323",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Arm 01 L",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "324",
+                    "uid": "1519951341645986:46795",
+                    "name": "\/Resources\/Resource324",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Spine 02",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "325",
+                    "uid": "1519951341653240:46803",
+                    "name": "\/Resources\/Resource325",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat Hot Dog\/HotDog v05.03.fbx",
+                    "additionalProperties": {
+                        "name": "Spine 03",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363",
+                "1": "1507675612124687:16502",
+                "2": "1511398066499868:21439",
+                "3": "1519950364432357:38449",
+                "4": "1519951341313742:46648",
+                "5": "1519951341639948:46779",
+                "6": "1519951341640060:46783",
+                "7": "1519951341645860:46793",
+                "8": "1519951341653123:46801",
+                "9": "1519951341656889:46809",
+                "10": "1519951341659074:46817",
+                "11": "1519951341661267:46825",
+                "12": "1519951341663598:46833",
+                "13": "1519951341665310:46841",
+                "14": "1519951341669063:46849",
+                "15": "1519951341670962:46857",
+                "16": "1519951341673481:46865",
+                "17": "1519951341676197:46873",
+                "18": "1519951341681851:46883",
+                "19": "1519951341681930:46887",
+                "20": "1519951341690218:46897",
+                "21": "1519951341690469:46901",
+                "22": "1519951341696079:46911",
+                "23": "1519951341705437:46915",
+                "24": "1519951341705554:46919",
+                "25": "1519951341741956:46936",
+                "26": "1519951341756792:46946",
+                "27": "1519951341761257:46956",
+                "28": "1519951341786692:46966",
+                "29": "1519951341811255:46976",
+                "30": "1519951341823412:46986",
+                "31": "1519951341827221:46996",
+                "32": "1519951341840581:47006",
+                "33": "1519951341870295:47016",
+                "34": "1519951341877563:47026",
+                "35": "1519951341886163:47036",
+                "36": "1519951341889489:47046",
+                "37": "1519951341892293:47056",
+                "38": "1519951341915299:47066",
+                "39": "1519951341918833:47076",
+                "40": "1519951341929818:47086"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "1",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "GroundGrid",
+                                "resourceId": "7",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "WorldObjectController",
+                                "resourceId": "13",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "IdleAnim",
+                                "resourceId": "14",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "camera_output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "device_camera_texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "base",
+                                "resourceId": "40",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "marvista_diff",
+                                "resourceId": "156",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "marvista_spec",
+                                "resourceId": "157",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid_mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "touch_collision_cube",
+                                "resourceId": "160",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "Plane",
+                                "resourceId": "168",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "11",
+                                "extension": ""
+                            },
+                            {
+                                "name": "matte_shadow",
+                                "resourceId": "167",
+                                "extension": ""
+                            },
+                            {
+                                "name": "touch_collision",
+                                "resourceId": "169",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Bun",
+                                "resourceId": "234",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Face",
+                                "resourceId": "268",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Heaphones",
+                                "resourceId": "262",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Ketchup",
+                                "resourceId": "244",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Main",
+                                "resourceId": "228",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Mustard",
+                                "resourceId": "250",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Rellish",
+                                "resourceId": "256",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "HotDog v05",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Fone",
+                                        "resourceId": "170",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Light Top",
+                                        "resourceId": "171",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Light Side",
+                                        "resourceId": "172",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Main",
+                                        "resourceId": "173",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Fone_2",
+                                        "resourceId": "279",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Light Top_2",
+                                        "resourceId": "280",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Light Side_2",
+                                        "resourceId": "281",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Main_2",
+                                        "resourceId": "282",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Cube",
+                                        "resourceId": "195",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Plane",
+                                        "resourceId": "196",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Light Top",
+                                        "resourceId": "182",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Light Side",
+                                        "resourceId": "183",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Arm Left",
+                                        "resourceId": "186",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Arm Right",
+                                        "resourceId": "187",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Leg Right",
+                                        "resourceId": "188",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Leg Left",
+                                        "resourceId": "189",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Rellish",
+                                        "resourceId": "178",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Mustard",
+                                        "resourceId": "179",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Mouth",
+                                        "resourceId": "180",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Ketchup",
+                                        "resourceId": "181",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Headphones",
+                                        "resourceId": "190",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Eyebrow Right",
+                                        "resourceId": "198",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Eyebrow Left",
+                                        "resourceId": "184",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Eye Right",
+                                        "resourceId": "197",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Eye Left",
+                                        "resourceId": "185",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Ear Right",
+                                        "resourceId": "191",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Ear Left",
+                                        "resourceId": "192",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Bun",
+                                        "resourceId": "193",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Body",
+                                        "resourceId": "194",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Cube_2",
+                                        "resourceId": "287",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Plane_2",
+                                        "resourceId": "300",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Light Top_2",
+                                        "resourceId": "292",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Light Side_2",
+                                        "resourceId": "304",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Arm Left_2",
+                                        "resourceId": "299",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Arm Right_2",
+                                        "resourceId": "293",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Leg Right_2",
+                                        "resourceId": "306",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Leg Left_2",
+                                        "resourceId": "301",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Rellish_2",
+                                        "resourceId": "291",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Mustard_2",
+                                        "resourceId": "302",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Mouth_2",
+                                        "resourceId": "290",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Ketchup_2",
+                                        "resourceId": "297",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Headphones_2",
+                                        "resourceId": "305",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Eyebrow Right_2",
+                                        "resourceId": "295",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Eyebrow Left_2",
+                                        "resourceId": "298",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Eye Right_2",
+                                        "resourceId": "307",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Eye Left_2",
+                                        "resourceId": "289",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Ear Right_2",
+                                        "resourceId": "288",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Ear Left_2",
+                                        "resourceId": "303",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Bun_2",
+                                        "resourceId": "296",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Body_2",
+                                        "resourceId": "294",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Hand Controller Right",
+                                        "resourceId": "203",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Hand Controller Left",
+                                        "resourceId": "204",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Hip Controller",
+                                        "resourceId": "220",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Neck Controller",
+                                        "resourceId": "199",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Spine 01",
+                                        "resourceId": "212",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Spine 02",
+                                        "resourceId": "213",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Spine 03",
+                                        "resourceId": "214",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Arm 01 L",
+                                        "resourceId": "218",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Arm 02 L",
+                                        "resourceId": "200",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Arm 01 R",
+                                        "resourceId": "211",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Arm 02 R",
+                                        "resourceId": "216",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Leg 01 L",
+                                        "resourceId": "217",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Leg 02 L",
+                                        "resourceId": "205",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Leg 01 R",
+                                        "resourceId": "206",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Leg 02 R",
+                                        "resourceId": "219",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Hand L",
+                                        "resourceId": "207",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Thumb L",
+                                        "resourceId": "208",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Hand R",
+                                        "resourceId": "201",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Thumb R",
+                                        "resourceId": "202",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Head",
+                                        "resourceId": "215",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Foot L",
+                                        "resourceId": "209",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Foot R",
+                                        "resourceId": "210",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Hand Controller Right_2",
+                                        "resourceId": "321",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Hand Controller Left_2",
+                                        "resourceId": "314",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Hip Controller_2",
+                                        "resourceId": "310",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Neck Controller_2",
+                                        "resourceId": "309",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Spine 01_2",
+                                        "resourceId": "320",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Spine 02_2",
+                                        "resourceId": "324",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Spine 03_2",
+                                        "resourceId": "325",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Arm 01 L_2",
+                                        "resourceId": "323",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Arm 02 L_2",
+                                        "resourceId": "322",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Arm 01 R_2",
+                                        "resourceId": "312",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Arm 02 R_2",
+                                        "resourceId": "317",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Leg 01 L_2",
+                                        "resourceId": "316",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Leg 02 L_2",
+                                        "resourceId": "313",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Leg 01 R_2",
+                                        "resourceId": "311",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Leg 02 R_2",
+                                        "resourceId": "318",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Hand L_2",
+                                        "resourceId": "315",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Hand R_2",
+                                        "resourceId": "308",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Head_2",
+                                        "resourceId": "319",
+                                        "extension": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "PBR Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base_Main",
+                                "resourceId": "229",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap_Main",
+                                "resourceId": "230",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Main",
+                                "resourceId": "231",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal_Hotdog Main",
+                                "resourceId": "232",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap_Main",
+                                "resourceId": "233",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_Bun",
+                                "resourceId": "235",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap_Bun",
+                                "resourceId": "236",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Bun",
+                                "resourceId": "237",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal_Hotdog Bun",
+                                "resourceId": "238",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap_Bun",
+                                "resourceId": "239",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_Ketchup",
+                                "resourceId": "245",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap_Ketchup",
+                                "resourceId": "246",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Ketchup",
+                                "resourceId": "247",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal_Ketchup",
+                                "resourceId": "248",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap_Ketchup",
+                                "resourceId": "249",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_Mustard",
+                                "resourceId": "251",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap_Mustard",
+                                "resourceId": "252",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Mustard",
+                                "resourceId": "253",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal_Mustard",
+                                "resourceId": "254",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap_Mustard",
+                                "resourceId": "255",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_Rellish",
+                                "resourceId": "257",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap_Rellish",
+                                "resourceId": "258",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Rellish",
+                                "resourceId": "259",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal_Rellish",
+                                "resourceId": "260",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap_Rellish",
+                                "resourceId": "261",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_Heaphones",
+                                "resourceId": "263",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap_Heaphones",
+                                "resourceId": "264",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Heaphones",
+                                "resourceId": "265",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal_Heaphones",
+                                "resourceId": "266",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap_Heaphones",
+                                "resourceId": "267",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_Face",
+                                "resourceId": "269",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap_Face",
+                                "resourceId": "270",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Face",
+                                "resourceId": "271",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal_Face",
+                                "resourceId": "272",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap_Face",
+                                "resourceId": "273",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Main2",
+                                "resourceId": "274",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Heaphones2",
+                                "resourceId": "275",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Ketchup2",
+                                "resourceId": "276",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Bun2",
+                                "resourceId": "277",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams_Face2",
+                                "resourceId": "278",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/ground_grid_mesh.mesh"
+                },
+                {
+                    "id": "7",
+                    "path": "Scripts\/GroundGrid.js"
+                },
+                {
+                    "id": "9",
+                    "path": "Textures\/ground_grid.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Textures\/ground_grid_mask.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Scripts\/WorldObjectController.js"
+                },
+                {
+                    "id": "14",
+                    "path": "Scripts\/IdleAnim.js"
+                },
+                {
+                    "id": "40",
+                    "path": "Textures\/base.png"
+                },
+                {
+                    "id": "156",
+                    "path": "Textures\/marvista_diff.png"
+                },
+                {
+                    "id": "157",
+                    "path": "Textures\/marvista_spec.png"
+                },
+                {
+                    "id": "160",
+                    "path": "Meshes\/touch_collision_cube.mesh"
+                },
+                {
+                    "id": "168",
+                    "path": "Meshes\/Plane.mesh"
+                },
+                {
+                    "id": "178",
+                    "path": "HotDog v05\/Meshes\/Rellish.mesh"
+                },
+                {
+                    "id": "179",
+                    "path": "HotDog v05\/Meshes\/Mustard.mesh"
+                },
+                {
+                    "id": "180",
+                    "path": "HotDog v05\/Meshes\/Mouth.mesh"
+                },
+                {
+                    "id": "181",
+                    "path": "HotDog v05\/Meshes\/Ketchup.mesh"
+                },
+                {
+                    "id": "182",
+                    "path": "HotDog v05\/Meshes\/Light Top.mesh"
+                },
+                {
+                    "id": "183",
+                    "path": "HotDog v05\/Meshes\/Light Side.mesh"
+                },
+                {
+                    "id": "184",
+                    "path": "HotDog v05\/Meshes\/Eyebrow Left.mesh"
+                },
+                {
+                    "id": "185",
+                    "path": "HotDog v05\/Meshes\/Eye Left.mesh"
+                },
+                {
+                    "id": "186",
+                    "path": "HotDog v05\/Meshes\/Arm Left.mesh"
+                },
+                {
+                    "id": "187",
+                    "path": "HotDog v05\/Meshes\/Arm Right.mesh"
+                },
+                {
+                    "id": "188",
+                    "path": "HotDog v05\/Meshes\/Leg Right.mesh"
+                },
+                {
+                    "id": "189",
+                    "path": "HotDog v05\/Meshes\/Leg Left.mesh"
+                },
+                {
+                    "id": "190",
+                    "path": "HotDog v05\/Meshes\/Headphones.mesh"
+                },
+                {
+                    "id": "191",
+                    "path": "HotDog v05\/Meshes\/Ear Right.mesh"
+                },
+                {
+                    "id": "192",
+                    "path": "HotDog v05\/Meshes\/Ear Left.mesh"
+                },
+                {
+                    "id": "193",
+                    "path": "HotDog v05\/Meshes\/Bun.mesh"
+                },
+                {
+                    "id": "194",
+                    "path": "HotDog v05\/Meshes\/Body.mesh"
+                },
+                {
+                    "id": "195",
+                    "path": "HotDog v05\/Meshes\/Cube.mesh"
+                },
+                {
+                    "id": "196",
+                    "path": "HotDog v05\/Meshes\/Plane.mesh"
+                },
+                {
+                    "id": "197",
+                    "path": "HotDog v05\/Meshes\/Eye Right.mesh"
+                },
+                {
+                    "id": "198",
+                    "path": "HotDog v05\/Meshes\/Eyebrow Right.mesh"
+                },
+                {
+                    "id": "229",
+                    "path": "PBR Textures\/Base_Main.png"
+                },
+                {
+                    "id": "230",
+                    "path": "PBR Textures\/DiffuseEnvmap_Main.png"
+                },
+                {
+                    "id": "231",
+                    "path": "PBR Textures\/MaterialParams_Main.png"
+                },
+                {
+                    "id": "232",
+                    "path": "PBR Textures\/Normal_Hotdog Main.png"
+                },
+                {
+                    "id": "233",
+                    "path": "PBR Textures\/SpecularEnvmap_Main.png"
+                },
+                {
+                    "id": "235",
+                    "path": "PBR Textures\/Base_Bun.png"
+                },
+                {
+                    "id": "236",
+                    "path": "PBR Textures\/DiffuseEnvmap_Bun.png"
+                },
+                {
+                    "id": "237",
+                    "path": "PBR Textures\/MaterialParams_Bun.png"
+                },
+                {
+                    "id": "238",
+                    "path": "PBR Textures\/Normal_Hotdog Bun.png"
+                },
+                {
+                    "id": "239",
+                    "path": "PBR Textures\/SpecularEnvmap_Bun.png"
+                },
+                {
+                    "id": "245",
+                    "path": "PBR Textures\/Base_Ketchup.png"
+                },
+                {
+                    "id": "246",
+                    "path": "PBR Textures\/DiffuseEnvmap_Ketchup.png"
+                },
+                {
+                    "id": "247",
+                    "path": "PBR Textures\/MaterialParams_Ketchup.png"
+                },
+                {
+                    "id": "248",
+                    "path": "PBR Textures\/Normal_Ketchup.png"
+                },
+                {
+                    "id": "249",
+                    "path": "PBR Textures\/SpecularEnvmap_Ketchup.png"
+                },
+                {
+                    "id": "251",
+                    "path": "PBR Textures\/Base_Mustard.png"
+                },
+                {
+                    "id": "252",
+                    "path": "PBR Textures\/DiffuseEnvmap_Mustard.png"
+                },
+                {
+                    "id": "253",
+                    "path": "PBR Textures\/MaterialParams_Mustard.png"
+                },
+                {
+                    "id": "254",
+                    "path": "PBR Textures\/Normal_Mustard.png"
+                },
+                {
+                    "id": "255",
+                    "path": "PBR Textures\/SpecularEnvmap_Mustard.png"
+                },
+                {
+                    "id": "257",
+                    "path": "PBR Textures\/Base_Rellish.png"
+                },
+                {
+                    "id": "258",
+                    "path": "PBR Textures\/DiffuseEnvmap_Rellish.png"
+                },
+                {
+                    "id": "259",
+                    "path": "PBR Textures\/MaterialParams_Rellish.png"
+                },
+                {
+                    "id": "260",
+                    "path": "PBR Textures\/Normal_Rellish.png"
+                },
+                {
+                    "id": "261",
+                    "path": "PBR Textures\/SpecularEnvmap_Rellish.png"
+                },
+                {
+                    "id": "263",
+                    "path": "PBR Textures\/Base_Heaphones.png"
+                },
+                {
+                    "id": "264",
+                    "path": "PBR Textures\/DiffuseEnvmap_Heaphones.png"
+                },
+                {
+                    "id": "265",
+                    "path": "PBR Textures\/MaterialParams_Heaphones.png"
+                },
+                {
+                    "id": "266",
+                    "path": "PBR Textures\/Normal_Heaphones.png"
+                },
+                {
+                    "id": "267",
+                    "path": "PBR Textures\/SpecularEnvmap_Heaphones.png"
+                },
+                {
+                    "id": "269",
+                    "path": "PBR Textures\/Base_Face.png"
+                },
+                {
+                    "id": "270",
+                    "path": "PBR Textures\/DiffuseEnvmap_Face.png"
+                },
+                {
+                    "id": "271",
+                    "path": "PBR Textures\/MaterialParams_Face.png"
+                },
+                {
+                    "id": "272",
+                    "path": "PBR Textures\/Normal_Face.png"
+                },
+                {
+                    "id": "273",
+                    "path": "PBR Textures\/SpecularEnvmap_Face.png"
+                },
+                {
+                    "id": "274",
+                    "path": "PBR Textures\/MaterialParams_Main2.png"
+                },
+                {
+                    "id": "275",
+                    "path": "PBR Textures\/MaterialParams_Heaphones2.png"
+                },
+                {
+                    "id": "276",
+                    "path": "PBR Textures\/MaterialParams_Ketchup2.png"
+                },
+                {
+                    "id": "277",
+                    "path": "PBR Textures\/MaterialParams_Bun2.png"
+                },
+                {
+                    "id": "278",
+                    "path": "PBR Textures\/MaterialParams_Face2.png"
+                },
+                {
+                    "id": "287",
+                    "path": "HotDog v05\/Meshes\/Cube_2.mesh"
+                },
+                {
+                    "id": "288",
+                    "path": "HotDog v05\/Meshes\/Ear Right_2.mesh"
+                },
+                {
+                    "id": "289",
+                    "path": "HotDog v05\/Meshes\/Eye Left_2.mesh"
+                },
+                {
+                    "id": "290",
+                    "path": "HotDog v05\/Meshes\/Mouth_2.mesh"
+                },
+                {
+                    "id": "291",
+                    "path": "HotDog v05\/Meshes\/Rellish_2.mesh"
+                },
+                {
+                    "id": "292",
+                    "path": "HotDog v05\/Meshes\/Light Top_2.mesh"
+                },
+                {
+                    "id": "293",
+                    "path": "HotDog v05\/Meshes\/Arm Right_2.mesh"
+                },
+                {
+                    "id": "294",
+                    "path": "HotDog v05\/Meshes\/Body_2.mesh"
+                },
+                {
+                    "id": "295",
+                    "path": "HotDog v05\/Meshes\/Eyebrow Right_2.mesh"
+                },
+                {
+                    "id": "296",
+                    "path": "HotDog v05\/Meshes\/Bun_2.mesh"
+                },
+                {
+                    "id": "297",
+                    "path": "HotDog v05\/Meshes\/Ketchup_2.mesh"
+                },
+                {
+                    "id": "298",
+                    "path": "HotDog v05\/Meshes\/Eyebrow Left_2.mesh"
+                },
+                {
+                    "id": "299",
+                    "path": "HotDog v05\/Meshes\/Arm Left_2.mesh"
+                },
+                {
+                    "id": "300",
+                    "path": "HotDog v05\/Meshes\/Plane_2.mesh"
+                },
+                {
+                    "id": "301",
+                    "path": "HotDog v05\/Meshes\/Leg Left_2.mesh"
+                },
+                {
+                    "id": "302",
+                    "path": "HotDog v05\/Meshes\/Mustard_2.mesh"
+                },
+                {
+                    "id": "303",
+                    "path": "HotDog v05\/Meshes\/Ear Left_2.mesh"
+                },
+                {
+                    "id": "304",
+                    "path": "HotDog v05\/Meshes\/Light Side_2.mesh"
+                },
+                {
+                    "id": "305",
+                    "path": "HotDog v05\/Meshes\/Headphones_2.mesh"
+                },
+                {
+                    "id": "306",
+                    "path": "HotDog v05\/Meshes\/Leg Right_2.mesh"
+                },
+                {
+                    "id": "307",
+                    "path": "HotDog v05\/Meshes\/Eye Right_2.mesh"
+                }
+            ]
+        }
+    }
+}
